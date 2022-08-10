@@ -1,3 +1,3 @@
 # Interaction-Design-Courseworks
-This repository contains both Specifications and Handins for the **COMP2213-Interaction Design** courseworks
+This repository contains the Handins for the **COMP2213-Interaction Design** courseworks
 
